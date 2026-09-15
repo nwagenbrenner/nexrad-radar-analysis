@@ -16,3 +16,6 @@ radar-venv/
 # Jupyter
 .ipynb_checkpoints/
 
+#vim
+*.swp
+
